@@ -11,40 +11,46 @@
 
 </div>
 
-## 🛠 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular, React, JavaScript, TypeScript, HTML, CSS, Bootstrap |
-| **Backend** | C#, .NET Core, ASP.NET Web API, Node.js, Python, Django, Java |
-| **Databases** | SQL Server, MongoDB, SQLite, Redis |
-| **Architecture** | Microservices, REST, GraphQL, gRPC, RabbitMQ, Docker |
-| **AI & Tools** | MCP, Prompt Engineering, GitHub Copilot, Amazon Q |
+## 🌐 Professional Profile
+Highly dedicated and professional Full-Stack Developer with strong logical reasoning skills and a proactive approach. Adept at tackling complex technological challenges with a strong work ethic, high commitment, and strict adherence to deadlines. Experienced in integrating cutting-edge AI tools to enhance development efficiency, optimize code, and accelerate end-to-end workflows.
 
 ---
 
 ## 💼 Work Experience
 
-### **Full-Stack Developer (Intern) | Ministry of Environmental Protection** | 2026
-*   Development of organizational information systems using **Angular**, **.NET Core**, and **SQL Server**.
-*   Agile methodology implementation: Azure DevOps, Git workflows, and collaborative design via Figma.
-*   Focused on high-performance code, clean architecture, and UI/UX optimization.
+### **Full-Stack Developer | Ministry of Education – "Gefen" System** | 2026 – Present
+*   **Full-Stack Development:** Planning and implementing complex modules in a core system serving thousands of users using **Angular** and **C# .NET Core**.
+*   **State Management:** Implementing **NgRx** for managing complex architectural data flow and optimizing user experience.
+*   **Data & Performance:** Writing complex Oracle SQL queries and improving system performance, adhering to **Clean Code** and **DRY** principles.
+*   **Methodology:** Agile environment, full development lifecycle (ALM) using **Azure DevOps** and **Git**.
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-*   **Restaurant Booking System:** Full-Stack platform (React, Node.js, MongoDB) with authentication and management dashboards.
-*   **Sales Management System:** Enterprise solution built with Angular, C# .NET, and SQL Server using 3-layer architecture.
-*   **Interactive JavaScript App:** Dynamic state management with LocalStorage integration.
-*   **Health Clinic Database:** SQL relational system for inventory and patient records.
-*   **Task & Team Management:** Scalable platform powered by Python and Django.
+*   **Chinese Sale & Lottery Website:** Management and raffle system utilizing layered architecture with RBAC and real-time data display.
+*   **E-commerce Platform:** Full-Stack luxury platform (React, Node.js, MongoDB) with secure authentication and Redux Toolkit state management.
+*   **Multi-Team Task System:** Python/Django server with Multi-tenancy architecture ensuring data isolation and secure concurrency.
+*   **AI Agents Architecture:** Development of autonomous, event-driven AI components within a Microservices and Docker-based environment.
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming** | C#, Python, JavaScript, TypeScript, Java, C, Assembly |
+| **Server Side** | ASP.NET Core, Web API, Node.js, Spring Boot, Django |
+| **Client Side** | Angular, React, HTML5, CSS3, PrimeReact, PrimeNG, MUI, Bootstrap |
+| **Databases** | SQL Server, MongoDB, MySQL, SQLite, Redis |
+| **AI & Tools** | MCP, Prompt Engineering, Amazon Q, GitHub Copilot, Git, Docker, Azure DevOps |
 
 ---
 
 ## 🎓 Education
 
-*   **Software Engineering (Handasait)** | Mahat (2024–2026)
+*   **Software Engineering (MAHAT)** | Seminar Mercaz Beit Yaakov Jerusalem | 2024–2026 (GPA: 98)
+*   **High School Studies** | 5-unit equivalent | 2020–2024 (GPA: 95+)
 
 ---
 
@@ -55,6 +61,6 @@
 **ay4128213@gmail.com** | **050-412-8213** | [**GitHub**](https://github.com/ay213)
 
 ---
-*Built with high commitment, precision, and clean code principles.*
+*Dedicated to excellence, efficient workflows, and high-performance software engineering.*
 
 </div>
