@@ -87,6 +87,7 @@ A highly dedicated and professional Full-Stack Developer with strong logical rea
 pie title Areas of Expertise
     "Frontend Development (Angular/React)" : 30
     "Backend Development (.NET/Node.js/Python)" : 35
-    "Database Management & Optimization" : 15
+    "Database Management & Optimization" : 
     "Architecture (Microservices/Multi-tenancy/Agents)" : 15
     "DevOps & AI Tools" : 5
+ףףףףף
