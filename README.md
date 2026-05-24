@@ -1,92 +1,78 @@
 # # Hi there, I'm Ayala Weinberger 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ay213&label=Profile%20views&color=0e75b6&style=flat" alt="ay213" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ayala%20Weinberger&subtitle=Senior%20Practical%20Software%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&fontAlignY=40&descSize=20&descAlignY=62&animation=twinkling" alt="Banner" />
 </p>
 
-### 👩‍💻 Senior Practical Software Engineer & Full-Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ay213&label=Profile%20views&color=0e75b6&style=flat-square" alt="ay213" />
+  <img src="https://img.shields.io/github/followers/ay213?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
-A highly dedicated and professional Full-Stack Developer with strong logical reasoning skills, a proactive approach, and a proven capacity for rapid self-directed learning. Adept at tackling complex technological challenges, managing full development lifecycles (ALM), and seamlessly integrating cutting-edge AI tools, MCP, and autonomous agents to accelerate workflows and optimize code from end to end.
+---
 
-> *Strict adherent to **Clean Code**, **SOLID design patterns**, and **DRY** principles.*
+## ⚡ Executive Summary
+
+<p align="left">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3huM210Z296bXN4Mnd4ZDV4NTFwN2xqMTZ6N21vbm94b3p3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="AI Agent Coding" />
+
+A highly dedicated, forward-thinking **Full-Stack Developer** and **Practical Software Engineer** with powerful logical reasoning skills and a proactive mindset. Expert at tackling complex architectural challenges, managing end-to-end software development lifecycles (ALM), and pioneering the integration of **Autonomous AI Agents**, **MCP (Model Context Protocol)**, and generative engineering into large-scale ecosystem workflows.
+
+> 🛠️ *Engineered with strict adherence to **Clean Code**, **SOLID Architecture**, and **DRY** principles.*
+</p>
 
 ---
 
 ## 🛠️ Technological Toolkit
 
-### 💻 Client-Side & Frontend Development
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-**State Management:** `NgRx`, `Redux Toolkit`
-**UI & Design:** `PrimeNG`, `PrimeReact`, `MUI`, `Bootstrap`
-
-### ⚙️ Server-Side & Backend Architecture
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-**Architectures:** `Layered Architecture`, `Microservices`, `Multi-tenancy`, `Agents Pattern`
-
-### 📊 Databases & ORMs
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-**ORMs:** `Entity Framework`, `Mongoose ORM`
-
-### 🚀 DevOps, Cloud & AI Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-**AI & Automation:** `MCP`, `Advanced Prompt Engineering`, `Amazon Q`, `GitHub Copilot`
-
----
-
-## 🚀 Key Projects & Experience
-
-### 💼 Software Development | Ministry of Education – "Gefen" System (2026 – Present)
-*   **Full-Stack Implementation:** Planned and implemented complex modules in a core governmental system serving thousands of users using Angular and C# .NET Core.
-*   **Architecture & State Management:** Implemented NgRx to manage complex architectural data flow, optimizing user experience in information-intensive interfaces.
-*   **Performance Optimization:** Wrote complex Oracle SQL queries and performed intensive code optimizations to enhance system performance.
-*   **Methodology:** Collaborative teamwork in an Agile environment using Azure DevOps and Git.
-
-### 🤖 Infrastructures & AI Agents Architecture
-*   *Stack: Agents Pattern, Microservices, Docker*
-*   Developed autonomous, event-driven AI Agent components designed to optimize and streamline background business processes.
-*   Designed and deployed the system within a Microservices architecture, utilizing Docker containers for an isolated, scalable, and resilient environment.
-
-### 🗳️ Chinese Sale & Raffle Management System
-*   *Stack: Angular, C# .NET Core, SQL Server*
-*   Built a comprehensive management and raffle system featuring a layered architecture combined with **Role-Based Access Control (RBAC)** security.
-*   Engineered an advanced frontend interface in Angular with real-time data display, dynamic filtering, and automated email workflows.
-
-### 🛒 Luxury Jewelry E-Commerce Platform
-*   *Stack: React.js, Node.js, MongoDB, Redux Toolkit*
-*   Developed a Full-Stack e-commerce website incorporating secure user authentication mechanisms and data encryption.
-*   Managed global state using Redux Toolkit and optimized database queries to ensure low-latency performance.
-
-### 👥 Multi-Team Task & Team Hub
-*   *Stack: Python, Django, SQLite*
-*   Built a Django server utilizing a **Multi-tenancy architecture** to guarantee absolute data isolation and cross-team security.
-*   Implemented strict permission logic and synchronization mechanisms to prevent race conditions and data overwrites during concurrent updates.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Infrastructure (Core Focus)</h3>
+      <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=for-the-badge&logo=ai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Autonomous_Agents_Pattern-FF6B6B?style=for-the-badge&logo=dependabot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-4A90E2?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Server-Side & Architecture</h3>
+      <img src="https://img.shields.io/badge/.NET_Core_/_C%23-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python_/_Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><br/>
+      <code>Microservices</code> | <code>Multi-tenancy</code> | <code>Layered Architecture</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Client-Side & Frontend</h3>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <strong>State:</strong> `NgRx` • `Redux Toolkit`<br/>
+      <strong>UI:</strong> `PrimeNG` • `PrimeReact` • `MUI` • `Bootstrap`
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data, Cloud & DevOps</h3>
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_(S3)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Expertise Overview
+## 📈 Strategic Expertise Overview
 
 ```mermaid
-pie title Areas of Expertise
-    "Frontend Development (Angular/React)" : 30
-    "Backend Development (.NET/Node.js/Python)" : 35
-    "Database Management & Optimization" : 15
-    "Architecture (Microservices/Multi-tenancy/Agents)" : 15
-    "DevOps & AI Tools" : 5
+pie title Production & Development Focus (%)
+    "AI Agents, MCP Architecture & Prompt Optimization" : 40
+    "Backend & Distributed Microservices (.NET / Django / Node)" : 30
+    "Enterprise Frontend & Complex State (Angular / NgRx / React)" : 20
+    "Database Tuning & DevOps Pipelines" : 10
