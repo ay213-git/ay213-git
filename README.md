@@ -1,18 +1,72 @@
 <div align="center">
 
+# Ayala Weinberger
+### Full-Stack Software Engineer
+
+---
+
+[![Skills](https://skillicons.dev/icons?i=angular,react,typescript,js,dotnet,cs,nodejs,python,django,mongodb,redis,docker,git,azure)](https://skillicons.dev)
+
+---
+
+</div>
+
+## Professional Summary
+Highly motivated Software Engineer specializing in Full-Stack development. Committed to building scalable, robust web applications using clean architecture and industry-standard design patterns. Experienced in integrating advanced AI tools to optimize development lifecycles and increase team productivity.
+
+---
+
+## Technical Expertise
+
+*   **Programming Languages:** C#, Python, JavaScript, TypeScript, Java, C, Assembly.
+*   **Backend Engineering:** .NET Core, ASP.NET Web API, Node.js, Django, Spring Boot.
+*   **Frontend Development:** Angular, React, HTML5, CSS3 (PrimeNG/MUI/Bootstrap).
+*   **Data & Infrastructure:** SQL Server, MongoDB, MySQL, Redis, Microservices, Docker, RabbitMQ.
+*   **AI Integration:** MCP, Prompt Engineering, GitHub Copilot, Amazon Q.
+*   **Development Tools:** Git, Azure DevOps, CI/CD, Agile/ALM.
+
+---
+
+## Professional Experience
+
+### **Full-Stack Developer | Ministry of Education – "Gefen" System**
+*   Engineering and maintaining high-scale modules within the core system.
+*   Implementing advanced state management via NgRx to enhance data flow.
+*   Optimizing complex database queries and applying Clean Code & DRY principles.
+*   Active participation in Agile ceremonies and end-to-end ALM management.
+
+---
+
+## Selected Projects
+
+*   **Enterprise Management Systems:** Development of layered architectural solutions with Role-Based Access Control (RBAC).
+*   **E-commerce Infrastructure:** Full-stack architecture involving secure authentication, data encryption, and performance-tuned state management (Redux Toolkit).
+*   **Scalable Task Platforms:** Design and deployment of multi-tenant architectures ensuring strict data isolation.
+*   **Autonomous AI Components:** Development of event-driven agents within a microservices ecosystem.
+
+---
+
+## Education
+
+*   **Software Engineering (MAHAT)** | 2024–2026 | GPA: 98
+*   **High School Studies** | 5-unit equivalent | GPA: 95+
+
+---
+
+<div align="center">
+
+### Contact Information
+
+**Email:** ay4128213@gmail.com | **Phone:** 050-412-8213 | [**GitHub Profile**](https://github.com/ay213)
+
+---
+*Dedicated to delivering high-performance, maintainable, and innovative software solutions.*
+
+</div>
+<div align="center">
+
 # 🚀 Ayala Weinberger
 ### Full-Stack Developer | Software Engineer
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ayala%20Weinberger&subtitle=Senior%20Practical%20Software%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&fontAlignY=40&descSize=20&descAlignY=62&animation=twinkling" alt="Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ay213&label=Profile%20views&color=0e75b6&style=flat-square" alt="ay213" />
-  <img src="https://img.shields.io/github/followers/ay213?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</p>
-
 ---
 
 ## ⚡ Executive Summary
