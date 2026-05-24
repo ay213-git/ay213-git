@@ -8,7 +8,7 @@
 ## ⚡ Executive Summary
 
 <p align="left">
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3huM210Z296bXN4Mnd4ZDV4NTFwN2xqMTZ6N21vbm94b3p3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="AI Agent Coding" />
+
 
 A highly dedicated, forward-thinking **Full-Stack Developer** and **Practical Software Engineer** with powerful logical reasoning skills and a proactive mindset. Expert at tackling complex architectural challenges, managing end-to-end software development lifecycles (ALM), and pioneering the integration of **Autonomous AI Agents**, **MCP (Model Context Protocol)**, and generative engineering into large-scale ecosystem workflows.
 
