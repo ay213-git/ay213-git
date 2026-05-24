@@ -1,50 +1,60 @@
-# היי, אני אילה ויינברגר 👋
+<div align="center">
+
+# 🚀 Ayala Weinberger
 ### Full-Stack Developer | Software Engineer
 
-מפתחת תוכנה עם תשוקה לארכיטקטורה נקייה, מערכות מורכבות ושילוב כלי AI מתקדמים בתהליכי פיתוח.
+---
+
+[![Skills](https://skillicons.dev/icons?i=angular,react,typescript,js,dotnet,cs,nodejs,python,django,mongodb,redis,docker,git,azure)](https://skillicons.dev)
 
 ---
 
-### 🛠 Tech Stack
+</div>
 
-| תחום | טכנולוגיות |
+## 🛠 Tech Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Angular, React, TypeScript, JavaScript, HTML5, CSS3 |
-| **Backend** | C#, .NET Core, ASP.NET Web API, Node.js, Python, Django |
-| **Databases** | SQL Server, MongoDB, Redis, SQLite |
-| **Architecture** | Microservices, REST, GraphQL, gRPC, Docker, RabbitMQ |
-| **AI Tools** | MCP, Prompt Engineering, GitHub Copilot, Amazon Q |
+| **Frontend** | Angular, React, JavaScript, TypeScript, HTML, CSS, Bootstrap |
+| **Backend** | C#, .NET Core, ASP.NET Web API, Node.js, Python, Django, Java |
+| **Databases** | SQL Server, MongoDB, SQLite, Redis |
+| **Architecture** | Microservices, REST, GraphQL, gRPC, RabbitMQ, Docker |
+| **AI & Tools** | MCP, Prompt Engineering, GitHub Copilot, Amazon Q |
 
 ---
 
-### 💼 ניסיון מקצועי
+## 💼 Work Experience
 
-**Full-Stack Developer | משרד החינוך – מערכת "גפן"** | 2026 – הווה
-* פיתוח מודולים קריטיים במערכת ליבה מורכבת.
-* התמחות באופטימיזציה של ביצועים וניהול נתונים רחב היקף.
-* עבודה בשיטות עבודה מודרניות (Agile/DevOps) ושיתוף פעולה טכני הדוק.
-
----
-
-### 🚀 פרויקטים נבחרים
-
-* **מערכת ניהול מכירות:** ארכיטקטורת 3-שכבות, בקרת הרשאות (RBAC) וממשק משתמש דינמי.
-* **E-commerce Platform:** פלטפורמה מאובטחת עם ניהול מצב גלובלי (Redux Toolkit) והצפנת נתונים.
-* **מערכת ניהול משימות:** שימוש ב-Multi-tenancy לבידוד נתונים ואבטחת מידע.
-* **AI Agent Infrastructure:** פיתוח רכיבים אוטונומיים מונחי אירועים (Event-driven).
+### **Full-Stack Developer (Intern) | Ministry of Environmental Protection** | 2026
+*   Development of organizational information systems using **Angular**, **.NET Core**, and **SQL Server**.
+*   Agile methodology implementation: Azure DevOps, Git workflows, and collaborative design via Figma.
+*   Focused on high-performance code, clean architecture, and UI/UX optimization.
 
 ---
 
-### 🎓 השכלה
-* **הנדסאית תוכנה** | מה"ט (2024–2026) – ממוצע 98.
-* **לימודי תיכון** | 5 יחידות, ממוצע 95+.
+## 🚀 Projects
+
+*   **Restaurant Booking System:** Full-Stack platform (React, Node.js, MongoDB) with authentication and management dashboards.
+*   **Sales Management System:** Enterprise solution built with Angular, C# .NET, and SQL Server using 3-layer architecture.
+*   **Interactive JavaScript App:** Dynamic state management with LocalStorage integration.
+*   **Health Clinic Database:** SQL relational system for inventory and patient records.
+*   **Task & Team Management:** Scalable platform powered by Python and Django.
 
 ---
 
-### 📫 יצירת קשר
-* 📧 **Email:** ay4128213@gmail.com
-* 📱 **Phone:** 050-412-8213
-* 🔗 **GitHub:** [github.com/ay213](https://github.com/ay213)
+## 🎓 Education
+
+*   **Software Engineering (Handasait)** | Mahat (2024–2026)
 
 ---
-*קוד איכותי הוא המפתח לחדשנות.*
+
+<div align="center">
+
+### 📫 Connect with me
+
+**ay4128213@gmail.com** | **050-412-8213** | [**GitHub**](https://github.com/ay213)
+
+---
+*Built with high commitment, precision, and clean code principles.*
+
+</div>
