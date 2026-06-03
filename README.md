@@ -68,8 +68,8 @@ A highly dedicated, forward-thinking **Full-Stack Developer** and **Practical So
 pie title Production & Development Focus (%)
     "AI Agents, MCP Architecture & Prompt Optimization" :35
     "Backend & Distributed Microservices (.NET / Django / Node)" : 30
-    "Enterprise Frontend & Complex State (Angular / NgRx / React)" : 25
-    "Database Tuning & DevOps Pipelines" : 20
+    "Enterprise Frontend & Complex State (Angular / NgRx / React)" : 20
+    "Database Tuning & DevOps Pipelines" : 15
 
 
 
